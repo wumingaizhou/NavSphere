@@ -110,7 +110,16 @@
           "icon": "Folder",
           "description": "各种大模型厂商官网",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1757159740160",
+              "title": "豆包",
+              "href": "https://www.doubao.com/chat/",
+              "description": "字节旗下大模型。",
+              "icon": "/assets/favicon_1757159755767.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "336aea85-5969-4282-b06b-9e2bccdf5f59",
