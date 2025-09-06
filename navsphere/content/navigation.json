@@ -118,6 +118,14 @@
               "description": "字节旗下大模型。",
               "icon": "/assets/favicon_1757159755767.png",
               "enabled": true
+            },
+            {
+              "id": "1757159820102",
+              "title": "Gemini",
+              "href": "https://gemini.google.com/gems/view",
+              "description": "gemini，长文本最佳选择",
+              "icon": "/assets/favicon_1757159823904.png",
+              "enabled": true
             }
           ]
         },
