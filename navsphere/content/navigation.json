@@ -103,7 +103,16 @@
       "title": "AI工具包",
       "icon": "Brain",
       "items": [],
-      "subCategories": [],
+      "subCategories": [
+        {
+          "id": "90d25f7f-b5b1-49a5-b398-a43cab9015c1",
+          "title": "大模型",
+          "icon": "Folder",
+          "description": "各种大模型厂商官网",
+          "enabled": true,
+          "items": []
+        }
+      ],
       "description": "",
       "enabled": true
     },
