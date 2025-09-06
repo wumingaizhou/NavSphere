@@ -109,6 +109,14 @@
               "description": "免费模型每天有一定额度",
               "icon": "/assets/favicon_1757166194468.ico",
               "enabled": true
+            },
+            {
+              "id": "1757166237640",
+              "title": "ModelScope 魔搭社区",
+              "href": "https://www.modelscope.cn/my/overview",
+              "description": "可以白嫖很多模型，每天有大量免费额度",
+              "icon": "/assets/favicon_1757166243580.ico",
+              "enabled": true
             }
           ]
         }
