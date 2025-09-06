@@ -125,6 +125,14 @@
               "description": "有一定免费额度，但是一般",
               "icon": "/assets/favicon_1757166317047.png",
               "enabled": true
+            },
+            {
+              "id": "1757166379570",
+              "title": "智谱AI开放平台",
+              "href": "https://bigmodel.cn/console/overview",
+              "description": "有免费的GLM额度，claude code 选择项之一",
+              "icon": "/assets/favicon_1757166384255.ico",
+              "enabled": true
             }
           ]
         }
