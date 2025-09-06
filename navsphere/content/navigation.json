@@ -133,6 +133,14 @@
               "description": "有免费的GLM额度，claude code 选择项之一",
               "icon": "/assets/favicon_1757166384255.ico",
               "enabled": true
+            },
+            {
+              "id": "1757166487687",
+              "title": "Kimi开发者平台",
+              "href": "https://platform.moonshot.cn/playground",
+              "description": "kimi的免费额度很少，需要有一定经济实力",
+              "icon": "/assets/favicon_1757166492280.png",
+              "enabled": true
             }
           ]
         }
