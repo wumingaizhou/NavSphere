@@ -134,6 +134,14 @@
               "description": "deepseek虽然目前不出众，但是还是一个选择",
               "icon": "/assets/favicon_1757159874819.svg",
               "enabled": true
+            },
+            {
+              "id": "1757159914145",
+              "title": "Chatgpt",
+              "href": "https://chatgpt.com/",
+              "description": "chatgpt，综合能力最强，老大哥",
+              "icon": "/assets/favicon_1757159918170.png",
+              "enabled": true
             }
           ]
         },
