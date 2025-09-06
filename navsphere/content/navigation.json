@@ -126,6 +126,14 @@
               "description": "gemini，长文本最佳选择",
               "icon": "/assets/favicon_1757159823904.png",
               "enabled": true
+            },
+            {
+              "id": "1757159871217",
+              "title": "DeepSeek",
+              "href": "https://chat.deepseek.com/",
+              "description": "deepseek虽然目前不出众，但是还是一个选择",
+              "icon": "/assets/favicon_1757159874819.svg",
+              "enabled": true
             }
           ]
         },
