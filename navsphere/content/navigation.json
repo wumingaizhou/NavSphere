@@ -84,6 +84,14 @@
               "description": "这里可以免费使用各种模型，包括高级模型",
               "icon": "/assets/favicon_1757165724863.ico",
               "enabled": true
+            },
+            {
+              "id": "1757165915736",
+              "title": "GLM",
+              "href": "https://chat.z.ai/",
+              "description": "GLM也是一个不错的选择",
+              "icon": "/assets/favicon_1757165919957.svg",
+              "enabled": true
             }
           ]
         },
