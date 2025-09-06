@@ -7,14 +7,6 @@
       "items": [],
       "subCategories": [
         {
-          "id": "336aea85-5969-4282-b06b-9e2bccdf5f59",
-          "title": "实用AI工具",
-          "icon": "Folder",
-          "description": "各种AI工具",
-          "enabled": true,
-          "items": []
-        },
-        {
           "id": "90d25f7f-b5b1-49a5-b398-a43cab9015c1",
           "title": "大模型",
           "icon": "Folder",
@@ -102,6 +94,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "336aea85-5969-4282-b06b-9e2bccdf5f59",
+          "title": "实用AI工具",
+          "icon": "Folder",
+          "description": "各种AI工具",
+          "enabled": true,
+          "items": []
         }
       ],
       "description": "",
