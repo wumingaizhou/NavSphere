@@ -117,6 +117,14 @@
               "description": "可以白嫖很多模型，每天有大量免费额度",
               "icon": "/assets/favicon_1757166243580.ico",
               "enabled": true
+            },
+            {
+              "id": "1757166312359",
+              "title": "硅基流动",
+              "href": "https://account.siliconflow.cn/zh/",
+              "description": "有一定免费额度，但是一般",
+              "icon": "/assets/favicon_1757166317047.png",
+              "enabled": true
             }
           ]
         }
