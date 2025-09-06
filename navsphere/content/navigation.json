@@ -97,9 +97,9 @@
         },
         {
           "id": "336aea85-5969-4282-b06b-9e2bccdf5f59",
-          "title": "实用AI工具",
+          "title": "api_key网站",
           "icon": "Folder",
-          "description": "各种AI工具",
+          "description": "收集各种可以获取key的网站",
           "enabled": true,
           "items": []
         }
