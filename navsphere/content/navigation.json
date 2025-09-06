@@ -76,6 +76,14 @@
               "description": "Qwen是国内首推的",
               "icon": "/assets/favicon_1757165676821.png",
               "enabled": true
+            },
+            {
+              "id": "1757165721344",
+              "title": "LMArena",
+              "href": "https://lmarena.ai/",
+              "description": "这里可以免费使用各种模型，包括高级模型",
+              "icon": "/assets/favicon_1757165724863.ico",
+              "enabled": true
             }
           ]
         },
