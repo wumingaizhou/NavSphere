@@ -143,6 +143,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "30f6b98b-2551-4e38-a15a-35ede0d71a32",
+          "title": "各种agent",
+          "icon": "Folder",
+          "description": "常用的一些agent",
+          "enabled": true,
+          "items": []
         }
       ],
       "description": "",
