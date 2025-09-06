@@ -142,6 +142,14 @@
               "description": "chatgpt，综合能力最强，老大哥",
               "icon": "/assets/favicon_1757159918170.png",
               "enabled": true
+            },
+            {
+              "id": "1757159959680",
+              "title": "Anthropic",
+              "href": "https://claude.ai/new",
+              "description": "claude，我经常用来写复杂的代码",
+              "icon": "/assets/favicon_1757159963710.png",
+              "enabled": true
             }
           ]
         },
