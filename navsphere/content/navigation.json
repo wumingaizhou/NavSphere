@@ -101,7 +101,16 @@
           "icon": "Folder",
           "description": "收集各种可以获取key的网站",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1757166191383",
+              "title": "OpenRouter",
+              "href": "https://openrouter.ai/",
+              "description": "免费模型每天有一定额度",
+              "icon": "/assets/favicon_1757166194468.ico",
+              "enabled": true
+            }
+          ]
         }
       ],
       "description": "",
