@@ -52,6 +52,14 @@
               "description": "claude，我经常用来写复杂的代码",
               "icon": "/assets/favicon_1757159963710.png",
               "enabled": true
+            },
+            {
+              "id": "1757165495114",
+              "title": "GeoGPT",
+              "href": "https://geogpt.zero2x.org/",
+              "description": "GeoGPT，可以关注一下。",
+              "icon": "/assets/favicon_1757165564985.svg",
+              "enabled": true
             }
           ]
         },
