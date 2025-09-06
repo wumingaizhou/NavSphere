@@ -68,6 +68,14 @@
               "description": "Grok也是不错的选择",
               "icon": "/assets/favicon_1757165629141.png",
               "enabled": true
+            },
+            {
+              "id": "1757165673398",
+              "title": "Qwen Chat",
+              "href": "https://chat.qwen.ai/",
+              "description": "Qwen是国内首推的",
+              "icon": "/assets/favicon_1757165676821.png",
+              "enabled": true
             }
           ]
         },
