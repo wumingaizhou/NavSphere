@@ -60,6 +60,14 @@
               "description": "GeoGPT，可以关注一下。",
               "icon": "/assets/favicon_1757165564985.svg",
               "enabled": true
+            },
+            {
+              "id": "1757165624762",
+              "title": "Grok",
+              "href": "https://grok.com/",
+              "description": "Grok也是不错的选择",
+              "icon": "/assets/favicon_1757165629141.png",
+              "enabled": true
             }
           ]
         },
