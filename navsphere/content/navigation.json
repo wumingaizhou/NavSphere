@@ -150,7 +150,16 @@
           "icon": "Folder",
           "description": "常用的一些agent",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1757231250093",
+              "title": "Manus",
+              "href": "https://manus.im/app",
+              "description": "Manus 是一个将你的想法变为行动的通用 AI 助手。它在工作和生活中擅长各种任务，让你休息的同时完成一切工作。",
+              "icon": "/assets/favicon_1757231255652.ico",
+              "enabled": true
+            }
+          ]
         }
       ],
       "description": "",
