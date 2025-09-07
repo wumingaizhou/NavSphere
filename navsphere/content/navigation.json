@@ -204,6 +204,15 @@
       ],
       "description": "",
       "enabled": true
+    },
+    {
+      "id": "1757251225272",
+      "title": "gis",
+      "icon": "Map",
+      "description": "gis有关的工具",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
