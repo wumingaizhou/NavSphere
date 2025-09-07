@@ -212,7 +212,16 @@
       "description": "gis有关的工具",
       "enabled": true,
       "items": [],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "f915d9ef-68ef-4af7-834a-77d003824bf2",
+          "title": "实用工具",
+          "icon": "Folder",
+          "description": "gis实用工具。例如数据下载，格式转换",
+          "enabled": true,
+          "items": []
+        }
+      ]
     }
   ]
 }
