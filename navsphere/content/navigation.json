@@ -166,6 +166,14 @@
               "description": "设计类agent",
               "icon": "/assets/favicon_1757231321871.png",
               "enabled": true
+            },
+            {
+              "id": "1757231347376",
+              "title": "Lovable",
+              "href": "https://lovable.dev/",
+              "description": "网站UI设计",
+              "icon": "/assets/favicon_1757231353487.ico",
+              "enabled": true
             }
           ]
         }
