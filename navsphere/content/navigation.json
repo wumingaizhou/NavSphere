@@ -182,6 +182,14 @@
               "description": "也是网站设计类的",
               "icon": "/assets/favicon_1757231388097.svg",
               "enabled": true
+            },
+            {
+              "id": "1757231423154",
+              "title": "YouWare",
+              "href": "https://www.youware.com/home",
+              "description": "也是网站设计类的",
+              "icon": "/assets/favicon_1757231428142.ico",
+              "enabled": true
             }
           ]
         }
