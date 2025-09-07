@@ -227,6 +227,14 @@
               "description": "arcgis瓦片服务",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=services.arcgisonline.com",
               "enabled": true
+            },
+            {
+              "id": "1757251477322",
+              "title": "mapshaper",
+              "href": "https://mapshaper.org/",
+              "description": "数据格式转换网站",
+              "icon": "/assets/favicon_1757251482753.png",
+              "enabled": true
             }
           ]
         }
