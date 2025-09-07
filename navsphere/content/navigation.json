@@ -276,7 +276,16 @@
           "icon": "Folder",
           "description": "webgis学习",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1757251821214",
+              "title": "ArcGIS Maps SDK for JavaScript",
+              "href": "https://developers.arcgis.com/javascript/latest/",
+              "description": "ArcGIS Maps SDK for JavaScript文档",
+              "icon": "/assets/favicon_1757251827786.ico",
+              "enabled": true
+            }
+          ]
         }
       ]
     }
