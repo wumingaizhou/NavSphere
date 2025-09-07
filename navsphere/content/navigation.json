@@ -190,6 +190,14 @@
               "description": "也是网站设计类的",
               "icon": "/assets/favicon_1757231428142.ico",
               "enabled": true
+            },
+            {
+              "id": "1757231448677",
+              "title": "V0",
+              "href": "https://v0.app/chat",
+              "description": "网站UI设计top0",
+              "icon": "/assets/favicon_1757231452883.png",
+              "enabled": true
             }
           ]
         }
