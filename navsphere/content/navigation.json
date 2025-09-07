@@ -251,6 +251,14 @@
               "description": "也是一个数据格式转换网站",
               "icon": "/assets/favicon_1757251566625.png",
               "enabled": true
+            },
+            {
+              "id": "1757251659279",
+              "title": "EasyMap",
+              "href": "https://map.easyv.cloud/",
+              "description": "我国行政区划边界数据下载",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=map.easyv.cloud",
+              "enabled": true
             }
           ]
         }
