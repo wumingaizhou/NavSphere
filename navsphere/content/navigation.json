@@ -219,7 +219,16 @@
           "icon": "Folder",
           "description": "gis实用工具。例如数据下载，格式转换",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1757251388173",
+              "title": "arcgis rest 服务",
+              "href": "https://services.arcgisonline.com/arcgis/rest/services",
+              "description": "arcgis瓦片服务",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=services.arcgisonline.com",
+              "enabled": true
+            }
+          ]
         }
       ]
     }
