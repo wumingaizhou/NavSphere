@@ -284,6 +284,14 @@
               "description": "ArcGIS Maps SDK for JavaScript文档",
               "icon": "/assets/favicon_1757251827786.ico",
               "enabled": true
+            },
+            {
+              "id": "1757251852953",
+              "title": "OpenLayers API",
+              "href": "https://openlayers.org/en/latest/apidoc/",
+              "description": "OpenLayers",
+              "icon": "/assets/favicon_1757251859328.png",
+              "enabled": true
             }
           ]
         }
