@@ -292,6 +292,14 @@
               "description": "OpenLayers",
               "icon": "/assets/favicon_1757251859328.png",
               "enabled": true
+            },
+            {
+              "id": "1757251880976",
+              "title": "Cesium",
+              "href": "https://cesium.com/",
+              "description": "三维必学",
+              "icon": "/assets/favicon_1757251886821.svg",
+              "enabled": true
             }
           ]
         }
