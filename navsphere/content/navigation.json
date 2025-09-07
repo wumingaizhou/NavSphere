@@ -269,6 +269,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "8b7fddf0-0523-4342-8566-8f68bbafff8e",
+          "title": "webgis",
+          "icon": "Folder",
+          "description": "webgis学习",
+          "enabled": true,
+          "items": []
         }
       ]
     }
