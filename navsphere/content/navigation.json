@@ -259,6 +259,14 @@
               "description": "我国行政区划边界数据下载",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=map.easyv.cloud",
               "enabled": true
+            },
+            {
+              "id": "1757251732556",
+              "title": "Geonames",
+              "href": "https://www.geonames.org/",
+              "description": "世界上所有地名",
+              "icon": "/assets/favicon_1757251739059.png",
+              "enabled": true
             }
           ]
         }
