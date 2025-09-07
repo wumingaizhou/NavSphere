@@ -300,6 +300,14 @@
               "description": "三维必学",
               "icon": "/assets/favicon_1757251886821.svg",
               "enabled": true
+            },
+            {
+              "id": "1757251938379",
+              "title": "Postgis",
+              "href": "https://postgis.net/docs/manual-3.5/zh_Hans/index.html",
+              "description": "postgis教程",
+              "icon": "/assets/favicon_1757251944978.png",
+              "enabled": true
             }
           ]
         }
