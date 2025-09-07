@@ -243,6 +243,14 @@
               "description": "OpenStreetMap 数据下载",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=his.lreept.space",
               "enabled": true
+            },
+            {
+              "id": "1757251560357",
+              "title": "GeoConverter",
+              "href": "https://geoconverter.infs.ch/",
+              "description": "也是一个数据格式转换网站",
+              "icon": "/assets/favicon_1757251566625.png",
+              "enabled": true
             }
           ]
         }
